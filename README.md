@@ -1,4 +1,4 @@
-Hi <h1>Hi there! <span class="wave">👋</span></h1> My name is Adam English
+<h1>Hi there! <span class="wave">👋</span></h1> My name is Adam English
 ====================================================================================================================================
 
 * 🌍  I'm based in Dublin, Ireland.
