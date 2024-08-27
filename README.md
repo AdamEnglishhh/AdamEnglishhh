@@ -1,7 +1,7 @@
 <h1>Hi there! My name is Adam English <span class="wave">👋</span></h1>
 
 * 🌍  I'm based in Dublin, Ireland.
-* 🖥️  See my portfolio at [MyPortfolio](http://github.com/AdamEnglishhh)
+* 🖥️  See my portfolio at [MyPortfolio](https://github.com/AdamEnglishhh?tab=repositories)
 * ✉️  You can contact me at [adamje@outlook.ie](mailto:adamje@outlook.ie)
 * 🚀  I'm currently working on completing Higher Diploma in Science in Data Analytics for Business @ CCT
 * 🧠  I'm studying to [become a Data Analyst](http://github.com/AdamEnglishhh)
