@@ -3,8 +3,8 @@
 * 🌍  I'm based in Dublin, Ireland.
 * 🖥️  See my portfolio at [MyPortfolio](https://github.com/AdamEnglishhh?tab=repositories)
 * ✉️  You can contact me at [adamje@outlook.ie](mailto:adamje@outlook.ie)
-* 🚀  I'm currently working on completing Higher Diploma in Science in Data Analytics for Business @ CCT
-* 🧠  I'm studying to [become a Data Analyst](http://github.com/AdamEnglishhh)
+* 🚀  Graduated with L8 (hons) Higher Diploma in Science in Data Analytics for Business @ CCT
+* 🧠  Growing as a Data Analyst](http://github.com/AdamEnglishhh)
 * 🤝  I'm open to collaborating on Sports and Data related projects
 
 <a href="https://www.x.com/FPLEnglish" target="_blank" rel="noreferrer"><img
